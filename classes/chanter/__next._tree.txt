@@ -1,0 +1,7 @@
+:HL["/_next/static/css/baae4a50d0e21a6b.css","style"]
+:HL["/icons/classes/chanter.svg","image"]
+:HL["/images/classes/chanter-640.webp","image",{"imageSrcSet":"/images/classes/chanter-640.webp 640w, /images/classes/chanter-1280.webp 1280w","imageSizes":"(max-width: 767px) 100vw, 1100px"}]
+3:[["children",{"s":"__PAGE__","h":160}]]
+2:[["children",{"s":{"n":"slug","t":"d","k":"chanter","s":[]},"h":96,"c":"$Q3"}]]
+1:[["children",{"s":"classes","h":96,"c":"$Q2"}]]
+0:{"b":"Vf97GagzQhfIpgGNPXZqF","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
