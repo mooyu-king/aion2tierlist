@@ -1,16 +1,16 @@
 1:"$Sreact.fragment"
 2:"static/chunks/272-9d80fc340473fc03.js"
-3:"static/chunks/949-9b3f03bbd35f6fb4.js"
+3:"static/chunks/949-cb5389bc65a3a954.js"
 4:"static/chunks/app/layout-48c6a999b598dfa5.js"
 5:I[1033,["272","$2","949","$3","177","$4"],"Provider"]
 6:I[949,["272","$2","949","$3","177","$4"],"Header"]
 7:I[9157,[],""]
 8:I[5345,[],""]
-9:"static/chunks/905-faf45ffc640b0fde.js"
-a:"static/chunks/148-f6887844f0e14e96.js"
-b:"static/chunks/283-15329ad45449e5dd.js"
-c:"static/chunks/app/page-f2deeedb60108d3c.js"
-d:I[9272,["272","$2","949","$3","905","$9","148","$a","283","$b","974","$c"],""]
+9:"static/chunks/616-3e4f981778dae227.js"
+a:"static/chunks/148-23657dfaf74b2040.js"
+b:"static/chunks/283-c815e0e76eadd5b9.js"
+c:"static/chunks/app/page-f0488543bdbeb2ba.js"
+d:I[9272,["272","$2","949","$3","616","$9","148","$a","283","$b","974","$c"],""]
 e:I[949,["272","$2","949","$3","177","$4"],"Footer"]
 f:I[949,["272","$2","949","$3","177","$4"],"CompareBar"]
 10:I[949,["272","$2","949","$3","177","$4"],"Feedback"]
@@ -22,13 +22,13 @@ f:I[949,["272","$2","949","$3","177","$4"],"CompareBar"]
 1e:"MetadataBoundary"
 1f:I[8584,[],"$1e"]
 20:I[7873,[],"IconMark"]
-:HL["/_next/static/css/baae4a50d0e21a6b.css","style"]
+:HL["/_next/static/css/120017ebd7191a0d.css","style"]
 13:X
 16:X
 16:C
 17:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","section",null,{"className":"page-intro","children":[["$","span",null,{"className":"eyebrow","children":"404 · PAGE NOT FOUND"}],["$","h1",null,{"children":"This path ends here."}],["$","p",null,{"children":"Return to the class list or open the rift planner."}],["$","div",null,{"className":"actions","children":[["$","$Ld",null,{"className":"button","href":"/","children":"Tier List"}],["$","$Ld",null,{"className":"button","href":"/rift-timer/","children":"Rift Timer"}]]}]]}],null,["$","$L18",null,{"children":["$","$19",null,{"name":"Next.MetadataOutlet","children":"$@1a"}]}]]}],"p":"$@1b","v":null,"s":"$13"}}]]
 14:[["children",{"s":"_not-found","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","template":["$","$L8",null,{}]}]]}],"p":"$@15","v":"$16","s":"$13"},"c":"$Q17"}]]
-0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/baae4a50d0e21a6b.css","precedence":"next"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"name\":\"AION2 Tier List\",\"url\":\"https://aion2tierlist.org/\",\"inLanguage\":\"en\",\"description\":\"Independent AION 2 class guides, attributed tier references and regional rift planning.\"}"}}],["$","$L5",null,{"children":[["$","a",null,{"className":"skip-link","href":"#main","children":"Skip to content"}],["$","$L6",null,{}],["$","main",null,{"id":"main","className":"wrap","children":["$","$L7",null,{"parallelRouterKey":"children","template":["$","$L8",null,{}],"notFound":[["$","section",null,{"className":"page-intro","children":[["$","span",null,{"className":"eyebrow","children":"404 · PAGE NOT FOUND"}],["$","h1",null,{"children":"This path ends here."}],["$","p",null,{"children":"Return to the class list or open the rift planner."}],["$","div",null,{"className":"actions","children":[["$","$Ld",null,{"className":"button","href":"/","children":"Tier List"}],["$","$Ld",null,{"className":"button","href":"/rift-timer/","children":"Rift Timer"}]]}]]}],[]]}]}],["$","$Le",null,{}],["$","$Lf",null,{}],["$","$L10",null,{}]]}],["$","$L11",null,{"src":"https://data.1back.link/js/app.js","strategy":"afterInteractive","data-domain":"aion2tierlist.org","data-api":"https://data.1back.link/api/send"}]]}]}]]}],"p":"$@12","v":null,"s":"$13"},"c":"$Q14"},"h":{"r":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L1d",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L1f",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$19",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"AION 2 Tier List & Rift Timer"}],["$","meta","1",{"name":"robots","content":"index, follow"}],["$","link","2",{"rel":"shortcut icon","href":"/logo.svg"}],["$","link","3",{"rel":"icon","href":"/logo.svg"}],["$","$L20","4",{}]]}]}],null]}],null]}],"p":"$@21","v":null,"s":"$13"}},"a":"$@22","u":"$@23","b":"M147VzCGJlQoBd0gEG_Bd"}
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/120017ebd7191a0d.css","precedence":"next"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"name\":\"AION2 Tier List\",\"url\":\"https://aion2tierlist.org/\",\"inLanguage\":\"en\",\"description\":\"Independent AION 2 class guides, attributed tier references and regional rift planning.\"}"}}],["$","$L5",null,{"children":[["$","a",null,{"className":"skip-link","href":"#main","children":"Skip to content"}],["$","$L6",null,{}],["$","main",null,{"id":"main","className":"wrap","children":["$","$L7",null,{"parallelRouterKey":"children","template":["$","$L8",null,{}],"notFound":[["$","section",null,{"className":"page-intro","children":[["$","span",null,{"className":"eyebrow","children":"404 · PAGE NOT FOUND"}],["$","h1",null,{"children":"This path ends here."}],["$","p",null,{"children":"Return to the class list or open the rift planner."}],["$","div",null,{"className":"actions","children":[["$","$Ld",null,{"className":"button","href":"/","children":"Tier List"}],["$","$Ld",null,{"className":"button","href":"/rift-timer/","children":"Rift Timer"}]]}]]}],[]]}]}],["$","$Le",null,{}],["$","$Lf",null,{}],["$","$L10",null,{}]]}],["$","$L11",null,{"src":"https://data.1back.link/js/app.js","strategy":"afterInteractive","data-domain":"aion2tierlist.org","data-api":"https://data.1back.link/api/send"}]]}]}]]}],"p":"$@12","v":null,"s":"$13"},"c":"$Q14"},"h":{"r":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L1d",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L1f",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$19",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"AION 2 Tier List & Rift Timer"}],["$","meta","1",{"name":"robots","content":"index, follow"}],["$","link","2",{"rel":"shortcut icon","href":"/logo.svg"}],["$","link","3",{"rel":"icon","href":"/logo.svg"}],["$","$L20","4",{}]]}]}],null]}],null]}],"p":"$@21","v":null,"s":"$13"}},"a":"$@22","u":"$@23","b":"W0F8SrHZoHx05XSKKoDpW"}
 1a:null
 13:300
 23:true

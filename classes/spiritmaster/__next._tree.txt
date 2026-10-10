@@ -1,7 +1,7 @@
-:HL["/_next/static/css/baae4a50d0e21a6b.css","style"]
+:HL["/_next/static/css/120017ebd7191a0d.css","style"]
 :HL["/icons/classes/spiritmaster.svg","image"]
 :HL["/images/classes/spiritmaster-640.webp","image",{"imageSrcSet":"/images/classes/spiritmaster-640.webp 640w, /images/classes/spiritmaster-1280.webp 1111w","imageSizes":"(max-width: 767px) 100vw, 1100px"}]
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":{"n":"slug","t":"d","k":"spiritmaster","s":[]},"h":96,"c":"$Q3"}]]
 1:[["children",{"s":"classes","h":96,"c":"$Q2"}]]
-0:{"b":"M147VzCGJlQoBd0gEG_Bd","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"W0F8SrHZoHx05XSKKoDpW","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
