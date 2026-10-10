@@ -1,0 +1,12 @@
+.git/**
+.worker/**
+.wrangler/**
+wrangler.json
+wrangler.jsonc
+README*
+.assetsignore
+.gitignore
+test-results/**
+node_modules/**
+package*.json
+functions/**

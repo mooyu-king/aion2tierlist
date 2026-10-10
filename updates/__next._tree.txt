@@ -1,4 +1,4 @@
 :HL["/_next/static/css/baae4a50d0e21a6b.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"updates","h":96,"c":"$Q2"}]]
-0:{"b":"Vf97GagzQhfIpgGNPXZqF","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"M147VzCGJlQoBd0gEG_Bd","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
