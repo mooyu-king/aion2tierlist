@@ -1,4 +1,4 @@
-:HL["/_next/static/css/120017ebd7191a0d.css","style"]
+:HL["/_next/static/css/76b10dc3f4a2da84.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":{"n":"page","t":"d","k":"about","s":["_not-found","_global-error","classes","compare","contact","rift-timer","robots.txt","sitemap.xml","sources","updates"]},"h":96,"c":"$Q2"}]]
-0:{"b":"G4v0BS5pb6ooAmX3b0sMS","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"EQi_CzaX6gAjdXEyUvX4G","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
