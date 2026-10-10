@@ -1,43 +1,81 @@
-# AION2 Tier List 与裂缝规划工具
+# AION 2 Tier List & Rift Timer
 
-![网站 Logo](logo.svg)
+[English](#english) · [繁體中文](#繁體中文)
 
-正式域名：[aion2tierlist.org](https://aion2tierlist.org/)。面向英文玩家的独立职业选择与裂缝规划网站，不隶属于 NCSOFT。
+[![AION 2 Tier List — choose your class and plan your next rift](social-card.png)](https://aion2tierlist.org/)
 
-![剑星人物参考](images/classes/gladiator-640.webp)
+## English
 
-## 网站功能
+**Find your class. Understand your strengths. Plan your next rift.**
 
-- 首页署名展示 Game8 的 PvE/PvP 排名快照，结合本站职业取舍与入门建议；Solo 和没有来源覆盖的拳星不编造档位。
-- 九职业图文指南、对应 SVG 标识、官方技能视频、可保存的练习清单、收藏和双职业对比。
-- 台韩官方常规裂缝排期、国际五区社区参考计时；区服和显示时区可手选。
-- 未来八场、3/24小时快捷填写及自定义在线时段筛选、固定场次分享、Discord 时间戳、ICS 日历及页面声音提醒。
-- 独立来源、方法、更新记录和四个信任/法律页面；十九个正文路由可索引，对比工具保持 noindex。
+[Visit aion2tierlist.org](https://aion2tierlist.org/) — an independent AION 2 companion for class selection, beginner guides and regional rift planning.
 
-## 数据与托管边界
+### Choose a class that fits your playstyle
 
-排名是注明来源的观点，不是本站测得的区域强度；国际服计时没有被认证为官方排期。规则有明确的复核截止时间，过期后停止计时。游戏维护、入口容量及个人资格以游戏内实际情况为准。
+Explore **PvE and PvP tier lists** with attributed ranking sources, then discover what each class brings to a fight. Read about strengths, trade-offs and solo play before choosing your character.
 
-本目录是 Next.js 静态构建产物。自动 IP 地区建议还需要单独随 Cloudflare Pages 部署源码的 `functions/api/region.ts`；仅上传静态文件不会启用此接口。界面会提供手动选择作为降级方式。
+| Gladiator | Ranger | Sorcerer |
+| :---: | :---: | :---: |
+| [![Gladiator class artwork](images/classes/gladiator-640.webp)](https://aion2tierlist.org/classes/gladiator/) | [![Ranger class artwork](images/classes/ranger-640.webp)](https://aion2tierlist.org/classes/ranger/) | [![Sorcerer class artwork](images/classes/sorcerer-640.webp)](https://aion2tierlist.org/classes/sorcerer/) |
+| Melee combat | Ranged attacks | Magic damage |
 
-本地构建通过不代表部署、浏览器交互或游戏校时已通过。部署与运营记录维护在源码目录中，不随本目录公开。
+- **Nine class guides:** character artwork, class emblems, skill introductions and official videos.
+- **A practical starting point:** beginner recommendations, learning priorities and practice checklists.
+- **Side-by-side comparisons:** compare two classes and save your favorites for another visit.
+- **Your next step:** find the matching regional official website and available download links from the guides.
 
-AION 2 图片、名称及游戏商标归相关权利人所有。联系：[mooyuking@gmail.com](mailto:mooyuking@gmail.com)。
+[Explore the tier list](https://aion2tierlist.org/) · [Browse all classes](https://aion2tierlist.org/classes/) · [Compare two classes](https://aion2tierlist.org/compare/)
 
-## 构建与更新
+### Make the next rift fit your schedule
 
-此仓库保存静态发布产物，不包含Next.js源码或node_modules。源码项目使用Next.js、React和TypeScript；在源码根目录执行：
+Choose your game region and display timezone to view estimated rift openings. Use the next eight sessions or enter your own play window to find a session that fits.
 
-```powershell
-npm run dev
-npm run typecheck
-npm run lint
-npm run test-time
-node scripts/validate-content.cjs --release
-npm run build-preserve-git
-node scripts/audit-output.cjs
-```
+- Quick **3-hour and 24-hour** planning options, plus custom time windows.
+- Share a selected session with friends or copy a **Discord timestamp**.
+- Add a session to your calendar or set a reminder while the page remains open.
+- Check the schedule source and review date directly alongside the tool.
 
-每次构建会备份并恢复out内的.git与README文件，校验保留文件的SHA256；构建命令不会自动提交或推送。需要发布时，在out内执行git add -A、git commit，再git push。仓库地址：https://github.com/mooyu-king/aion2tierlist 。GitHub仓库更新不等于已经启用网站托管或绑定域名。
+Taiwan and Korea schedules use official regular rules; international schedules are labeled community references. Maintenance and in-game notices take priority.
 
-统计脚本为https://data.1back.link/js/app.js，发送地址为https://data.1back.link/api/send，统计域名为aion2tierlist.org；具体处理方式见站点Privacy Policy。
+**[Open the AION 2 Rift Timer →](https://aion2tierlist.org/rift-timer/)**
+
+## 繁體中文
+
+**找到適合你的職業，掌握上手方向，安排下一場時空裂縫。**
+
+[前往 aion2tierlist.org](https://aion2tierlist.org/) — 結合職業排行榜、新手攻略與裂縫時間規劃的 AION 2 獨立玩家網站，網站介面以英文呈現。
+
+### 從排行榜開始，選出適合自己的職業
+
+查看 **PvE 與 PvP 職業排行榜**，搭配標明來源的排名、職業優勢、操作取捨與單人遊玩建議，了解每個職業的特色，再決定自己的冒險方向。
+
+| 守護星 | 治癒星 | 護法星 |
+| :---: | :---: | :---: |
+| [![守護星職業人物圖](images/classes/templar-640.webp)](https://aion2tierlist.org/classes/templar/) | [![治癒星職業人物圖](images/classes/cleric-640.webp)](https://aion2tierlist.org/classes/cleric/) | [![護法星職業人物圖](images/classes/chanter-640.webp)](https://aion2tierlist.org/classes/chanter/) |
+| 前排防護 | 隊伍治療 | 輔助增益 |
+
+- **九大職業圖文指南：**人物圖片、職業標誌、技能介紹與官方影片。
+- **新手入門方向：**依照喜好的玩法挑選職業，查看練習重點與學習清單。
+- **雙職業比較與收藏：**並排了解兩個職業的差異，收藏感興趣的選擇。
+- **銜接官方遊戲入口：**選好職業後，前往對應地區的官方網站及可用下載頁面。
+
+[查看職業排行榜](https://aion2tierlist.org/) · [瀏覽全部職業](https://aion2tierlist.org/classes/) · [比較兩個職業](https://aion2tierlist.org/compare/)
+
+### 讓裂縫時間配合你的遊玩安排
+
+自行選擇遊戲地區與顯示時區，查看預計開放倒數及接下來八個場次。輸入自己的遊玩時段，找出適合參加的場次。
+
+- 提供 **3 小時、24 小時**快捷規劃，以及自訂時段篩選。
+- 分享指定場次，或複製 **Discord 時間標記**與朋友約時間。
+- 將場次加入行事曆，或在頁面保持開啟時使用提醒。
+- 在工具旁查看排期來源與核對日期。
+
+台服與韓服採用官方常規排期；國際地區使用清楚標示的社群參考時間。實際開放情況仍以維護公告及遊戲內通知為準。
+
+**[開啟 AION 2 裂縫計時器 →](https://aion2tierlist.org/rift-timer/)**
+
+---
+
+[aion2tierlist.org](https://aion2tierlist.org/) · [About / 關於本站](https://aion2tierlist.org/about/) · [Contact / 聯絡我們](https://aion2tierlist.org/contact/)
+
+Independent fan resource; not affiliated with NCSOFT. AION 2 names and game artwork belong to their respective owners. / 本站為獨立玩家資源，與 NCSOFT 無隸屬關係；AION 2 名稱與遊戲圖片歸各權利人所有。
