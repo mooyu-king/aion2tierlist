@@ -4,4 +4,4 @@
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":{"n":"slug","t":"d","k":"brawler","s":[]},"h":96,"c":"$Q3"}]]
 1:[["children",{"s":"classes","h":96,"c":"$Q2"}]]
-0:{"b":"W0F8SrHZoHx05XSKKoDpW","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"G4v0BS5pb6ooAmX3b0sMS","t":{"t":{"s":"","h":80,"c":"$Q1"}}}

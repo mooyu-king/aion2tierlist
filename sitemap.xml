@@ -1,60 +1,117 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url>
-<loc>https://aion2tierlist.org/</loc>
-</url>
-<url>
-<loc>https://aion2tierlist.org/rift-timer/</loc>
-</url>
-<url>
-<loc>https://aion2tierlist.org/classes/</loc>
-</url>
-<url>
-<loc>https://aion2tierlist.org/about/</loc>
-</url>
-<url>
-<loc>https://aion2tierlist.org/privacy/</loc>
-</url>
-<url>
-<loc>https://aion2tierlist.org/contact/</loc>
-</url>
-<url>
-<loc>https://aion2tierlist.org/terms/</loc>
-</url>
-<url>
-<loc>https://aion2tierlist.org/methodology/</loc>
-</url>
-<url>
-<loc>https://aion2tierlist.org/sources/</loc>
-</url>
-<url>
-<loc>https://aion2tierlist.org/updates/</loc>
-</url>
-<url>
-<loc>https://aion2tierlist.org/classes/gladiator/</loc>
-</url>
-<url>
-<loc>https://aion2tierlist.org/classes/templar/</loc>
-</url>
-<url>
-<loc>https://aion2tierlist.org/classes/assassin/</loc>
-</url>
-<url>
-<loc>https://aion2tierlist.org/classes/ranger/</loc>
-</url>
-<url>
-<loc>https://aion2tierlist.org/classes/sorcerer/</loc>
-</url>
-<url>
-<loc>https://aion2tierlist.org/classes/spiritmaster/</loc>
-</url>
-<url>
-<loc>https://aion2tierlist.org/classes/cleric/</loc>
-</url>
-<url>
-<loc>https://aion2tierlist.org/classes/chanter/</loc>
-</url>
-<url>
-<loc>https://aion2tierlist.org/classes/brawler/</loc>
-</url>
+  <url>
+    <loc>https://aion2tierlist.org/</loc>
+    <lastmod>2026-10-10T14:18:50.936Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://aion2tierlist.org/rift-timer/</loc>
+    <lastmod>2026-10-10T14:18:50.936Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.95</priority>
+  </url>
+  <url>
+    <loc>https://aion2tierlist.org/classes/</loc>
+    <lastmod>2026-10-10T14:18:50.936Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://aion2tierlist.org/classes/assassin/</loc>
+    <lastmod>2026-10-10T14:18:50.936Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://aion2tierlist.org/classes/brawler/</loc>
+    <lastmod>2026-10-10T14:18:50.936Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://aion2tierlist.org/classes/chanter/</loc>
+    <lastmod>2026-10-10T14:18:50.936Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://aion2tierlist.org/classes/cleric/</loc>
+    <lastmod>2026-10-10T14:18:50.936Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://aion2tierlist.org/classes/gladiator/</loc>
+    <lastmod>2026-10-10T14:18:50.936Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://aion2tierlist.org/classes/ranger/</loc>
+    <lastmod>2026-10-10T14:18:50.936Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://aion2tierlist.org/classes/sorcerer/</loc>
+    <lastmod>2026-10-10T14:18:50.936Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://aion2tierlist.org/classes/spiritmaster/</loc>
+    <lastmod>2026-10-10T14:18:50.936Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://aion2tierlist.org/classes/templar/</loc>
+    <lastmod>2026-10-10T14:18:50.936Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://aion2tierlist.org/methodology/</loc>
+    <lastmod>2026-10-10T14:18:50.936Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://aion2tierlist.org/sources/</loc>
+    <lastmod>2026-10-10T14:18:50.936Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://aion2tierlist.org/updates/</loc>
+    <lastmod>2026-10-10T14:18:50.936Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://aion2tierlist.org/about/</loc>
+    <lastmod>2026-10-10T14:18:50.936Z</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://aion2tierlist.org/contact/</loc>
+    <lastmod>2026-10-10T14:18:50.936Z</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://aion2tierlist.org/privacy/</loc>
+    <lastmod>2026-10-10T14:18:50.936Z</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://aion2tierlist.org/terms/</loc>
+    <lastmod>2026-10-10T14:18:50.936Z</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.4</priority>
+  </url>
 </urlset>
