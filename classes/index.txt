@@ -1,36 +1,34 @@
 1:"$Sreact.fragment"
 2:"static/chunks/272-9d80fc340473fc03.js"
-3:"static/chunks/949-cb5389bc65a3a954.js"
-4:"static/chunks/app/layout-48c6a999b598dfa5.js"
+3:"static/chunks/949-d7d99760363eeb5a.js"
+4:"static/chunks/app/layout-e1ae4abafe05e55b.js"
 5:I[1033,["272","$2","949","$3","177","$4"],"Provider"]
 6:I[949,["272","$2","949","$3","177","$4"],"Header"]
 7:I[9157,[],""]
 8:I[5345,[],""]
-9:"static/chunks/616-3e4f981778dae227.js"
-a:"static/chunks/148-23657dfaf74b2040.js"
-b:"static/chunks/283-0ef5ce96cdc72d04.js"
-c:"static/chunks/app/page-f0488543bdbeb2ba.js"
-d:I[9272,["272","$2","949","$3","616","$9","148","$a","283","$b","974","$c"],""]
-e:I[949,["272","$2","949","$3","177","$4"],"Footer"]
-f:I[949,["272","$2","949","$3","177","$4"],"CompareBar"]
-10:I[949,["272","$2","949","$3","177","$4"],"Feedback"]
-11:I[9893,["272","$2","949","$3","177","$4"],""]
-15:"static/chunks/app/classes/page-71ded2e195ae224e.js"
-16:I[1283,["272","$2","949","$3","283","$b","797","$15"],"TierList"]
-17:I[8584,[],"OutletBoundary"]
-18:"$Sreact.suspense"
-1a:"ViewportBoundary"
-1b:I[8584,[],"$1a"]
-1d:"MetadataBoundary"
-1e:I[8584,[],"$1d"]
-20:I[263,[],"default",1]
-:HL["/_next/static/css/76b10dc3f4a2da84.css","style"]
-13:X
-14:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":[[["$","header",null,{"className":"page-intro","children":[["$","span",null,{"className":"eyebrow","children":"THE CLASS DIRECTORY"}],["$","h1",null,{"children":["Find your ",["$","em",null,{"children":"fighting style."}]]}],["$","p",null,{"children":"Nine documented Taiwan class names. Regional availability and comparative ratings are reviewed separately."}]]}],["$","$L16",null,{"catalog":true}]],null,["$","$L17",null,{"children":["$","$18",null,{"name":"Next.MetadataOutlet","children":"$@19"}]}]]}],"p":false,"v":null}}]]
-12:[["children",{"s":"classes","h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$13"},"c":"$Q14"}]]
-0:{"P":null,"c":["","classes",""],"q":"","i":false,"t":{"t":{"s":"","h":528,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/76b10dc3f4a2da84.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"name\":\"AION2 Tier List\",\"url\":\"https://aion2tierlist.org/\",\"inLanguage\":\"en\",\"description\":\"Independent AION 2 class guides, attributed tier references and regional rift planning.\"}"}}],["$","$L5",null,{"children":[["$","a",null,{"className":"skip-link","href":"#main","children":"Skip to content"}],["$","$L6",null,{}],["$","main",null,{"id":"main","className":"wrap","children":["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","section",null,{"className":"page-intro","children":[["$","span",null,{"className":"eyebrow","children":"404 · PAGE NOT FOUND"}],["$","h1",null,{"children":"This path ends here."}],["$","p",null,{"children":"Return to the class list or open the rift planner."}],["$","div",null,{"className":"actions","children":[["$","$Ld",null,{"className":"button","href":"/","children":"Tier List"}],["$","$Ld",null,{"className":"button","href":"/rift-timer/","children":"Rift Timer"}]]}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$Le",null,{}],["$","$Lf",null,{}],["$","$L10",null,{}]]}],["$","$L11",null,{"src":"https://data.1back.link/js/app.js","strategy":"afterInteractive","data-domain":"aion2tierlist.org","data-api":"https://data.1back.link/api/send"}]]}]}]]}],"p":false,"v":null},"c":"$Q12"},"h":{"r":["$","$1","h",{"children":[null,["$","$L1b",null,{"children":"$L1c"}],["$","$L1e",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$18",null,{"name":"Next.Metadata","children":"$L1f"}]}],null]}],null]}],"p":false,"v":null}},"m":"$undefined","G":["$20",[]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"EQi_CzaX6gAjdXEyUvX4G"}
-13:C
-1c:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
-21:I[7873,[],"IconMark"]
-19:null
-1f:[["$","title","0",{"children":"AION 2 Classes – Roles & Playstyles | AION2 Tier List"}],["$","meta","1",{"name":"description","content":"Explore the documented Taiwan AION 2 class roster, read individual role profiles and compare evidence without assuming regional parity."}],["$","meta","2",{"name":"keywords","content":"aion 2 classes,aion 2 class roles"}],["$","meta","3",{"name":"robots","content":"index, follow"}],["$","link","4",{"rel":"canonical","href":"https://aion2tierlist.org/classes/"}],["$","meta","5",{"property":"og:title","content":"AION 2 Classes – Roles & Playstyles"}],["$","meta","6",{"property":"og:description","content":"Explore the documented Taiwan AION 2 class roster, read individual role profiles and compare evidence without assuming regional parity."}],["$","meta","7",{"property":"og:url","content":"https://aion2tierlist.org/classes/"}],["$","meta","8",{"property":"og:site_name","content":"AION2 Tier List"}],["$","meta","9",{"property":"og:image","content":"https://aion2tierlist.org/social-card.png"}],["$","meta","10",{"property":"og:image:width","content":"1200"}],["$","meta","11",{"property":"og:image:height","content":"630"}],["$","meta","12",{"property":"og:image:alt","content":"AION2 Tier List — Choose your class. Plan your next rift."}],["$","meta","13",{"property":"og:type","content":"website"}],["$","meta","14",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","15",{"name":"twitter:title","content":"AION 2 Classes – Roles & Playstyles"}],["$","meta","16",{"name":"twitter:description","content":"Explore the documented Taiwan AION 2 class roster, read individual role profiles and compare evidence without assuming regional parity."}],["$","meta","17",{"name":"twitter:image","content":"https://aion2tierlist.org/social-card.png"}],["$","link","18",{"rel":"shortcut icon","href":"/logo.svg"}],["$","link","19",{"rel":"icon","href":"/logo.svg"}],["$","$L21","20",{}]]
+9:"static/chunks/237-9e7c5a162e88efd4.js"
+a:"static/chunks/app/page-5cbba8be940feb28.js"
+b:I[9272,["272","$2","949","$3","237","$9","974","$a"],""]
+c:I[949,["272","$2","949","$3","177","$4"],"Footer"]
+d:I[949,["272","$2","949","$3","177","$4"],"CompareBar"]
+e:I[949,["272","$2","949","$3","177","$4"],"Feedback"]
+f:I[9893,["272","$2","949","$3","177","$4"],""]
+13:"static/chunks/app/classes/page-2a31765a13a87aaf.js"
+14:I[5822,["272","$2","949","$3","797","$13"],"ClassDirectory"]
+15:I[8584,[],"OutletBoundary"]
+16:"$Sreact.suspense"
+18:"ViewportBoundary"
+19:I[8584,[],"$18"]
+1b:"MetadataBoundary"
+1c:I[8584,[],"$1b"]
+1e:I[263,[],"default",1]
+:HL["/_next/static/css/26a36f56c7337b36.css","style"]
+11:X
+12:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":[[["$","header",null,{"className":"page-intro","children":[["$","span",null,{"className":"eyebrow","children":"THE CLASS DIRECTORY"}],["$","h1",null,{"children":"AION 2 Classes: Roles, Weapons & Playstyles"}],["$","p",null,{"children":"Nine documented Taiwan class names. Regional availability and comparative ratings are reviewed separately."}]]}],["$","$L14",null,{}]],null,["$","$L15",null,{"children":["$","$16",null,{"name":"Next.MetadataOutlet","children":"$@17"}]}]]}],"p":false,"v":null}}]]
+10:[["children",{"s":"classes","h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$11"},"c":"$Q12"}]]
+0:{"P":null,"c":["","classes",""],"q":"","i":false,"t":{"t":{"s":"","h":528,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/26a36f56c7337b36.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"name\":\"AION2 Tier List\",\"url\":\"https://aion2tierlist.org/\",\"inLanguage\":\"en\",\"description\":\"Independent AION 2 class guides, attributed tier references and regional rift planning.\"}"}}],["$","$L5",null,{"children":[["$","a",null,{"className":"skip-link","href":"#main","children":"Skip to content"}],["$","$L6",null,{}],["$","main",null,{"id":"main","className":"wrap","children":["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","section",null,{"className":"page-intro","children":[["$","span",null,{"className":"eyebrow","children":"404 · PAGE NOT FOUND"}],["$","h1",null,{"children":"This path ends here."}],["$","p",null,{"children":"Return to the class list or open the rift planner."}],["$","div",null,{"className":"actions","children":[["$","$Lb",null,{"className":"button","href":"/","children":"Tier List"}],["$","$Lb",null,{"className":"button","href":"/rift-timer/","children":"Rift Timer"}]]}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$Lc",null,{}],["$","$Ld",null,{}],["$","$Le",null,{}]]}],["$","$Lf",null,{"src":"https://data.1back.link/js/app.js","strategy":"afterInteractive","data-domain":"aion2tierlist.org","data-api":"https://data.1back.link/api/send"}]]}]}]]}],"p":false,"v":null},"c":"$Q10"},"h":{"r":["$","$1","h",{"children":[null,["$","$L19",null,{"children":"$L1a"}],["$","$L1c",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$16",null,{"name":"Next.Metadata","children":"$L1d"}]}],null]}],null]}],"p":false,"v":null}},"m":"$undefined","G":["$1e",[]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"1DF97kJbqk98pQcG7-FXx"}
+11:C
+1a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+1f:I[7873,[],"IconMark"]
+17:null
+1d:[["$","title","0",{"children":"AION 2 Classes – Roles & Playstyles | AION2 Tier List"}],["$","meta","1",{"name":"description","content":"Explore the documented Taiwan AION 2 class roster, read individual role profiles and compare evidence without assuming regional parity."}],["$","meta","2",{"name":"keywords","content":"aion 2 classes,aion 2 class roles"}],["$","meta","3",{"name":"robots","content":"index, follow"}],["$","link","4",{"rel":"canonical","href":"https://aion2tierlist.org/classes/"}],["$","meta","5",{"property":"og:title","content":"AION 2 Classes – Roles & Playstyles"}],["$","meta","6",{"property":"og:description","content":"Explore the documented Taiwan AION 2 class roster, read individual role profiles and compare evidence without assuming regional parity."}],["$","meta","7",{"property":"og:url","content":"https://aion2tierlist.org/classes/"}],["$","meta","8",{"property":"og:site_name","content":"AION2 Tier List"}],["$","meta","9",{"property":"og:image","content":"https://aion2tierlist.org/social-card.png"}],["$","meta","10",{"property":"og:image:width","content":"1200"}],["$","meta","11",{"property":"og:image:height","content":"630"}],["$","meta","12",{"property":"og:image:alt","content":"AION2 Tier List — Choose your class. Plan your next rift."}],["$","meta","13",{"property":"og:type","content":"website"}],["$","meta","14",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","15",{"name":"twitter:title","content":"AION 2 Classes – Roles & Playstyles"}],["$","meta","16",{"name":"twitter:description","content":"Explore the documented Taiwan AION 2 class roster, read individual role profiles and compare evidence without assuming regional parity."}],["$","meta","17",{"name":"twitter:image","content":"https://aion2tierlist.org/social-card.png"}],["$","link","18",{"rel":"shortcut icon","href":"/logo.svg"}],["$","link","19",{"rel":"icon","href":"/logo.svg"}],["$","$L1f","20",{}]]
