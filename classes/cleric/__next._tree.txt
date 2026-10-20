@@ -1,7 +1,7 @@
-:HL["/_next/static/css/dacc942fc2ab9b3a.css","style"]
+:HL["/_next/static/css/2b1aab40997b91b8.css","style"]
 :HL["/icons/classes/cleric.svg","image"]
 :HL["/images/classes/cleric-640.webp","image",{"imageSrcSet":"/images/classes/cleric-640.webp 640w, /images/classes/cleric-1280.webp 1280w","imageSizes":"(max-width: 767px) 100vw, 1100px"}]
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":{"n":"slug","t":"d","k":"cleric","s":[]},"h":96,"c":"$Q3"}]]
 1:[["children",{"s":"classes","h":96,"c":"$Q2"}]]
-0:{"b":"w8KV6a0e1FN-9C2tZcNHF","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"hbJN9dF2enEeW3YK0sY7S","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
