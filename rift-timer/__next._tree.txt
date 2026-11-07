@@ -1,4 +1,4 @@
 :HL["/_next/static/css/2b1aab40997b91b8.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"rift-timer","h":96,"c":"$Q2"}]]
-0:{"b":"bpWbw8MgWuqf-OvEFxPRF","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"lNXeJdO0mf1CPCiYjmESw","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
