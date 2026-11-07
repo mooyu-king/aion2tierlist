@@ -1,10 +1,8 @@
 # AION 2 Tier List & Rift Timer
 
-[English](#english) · [繁體中文](#繁體中文)
 
 [![AION 2 Tier List — choose your class and plan your next rift](social-card.png)](https://aion2tierlist.org/)
 
-## English
 
 **Find your class. Understand your strengths. Plan your next rift.**
 
@@ -39,43 +37,39 @@ Taiwan and Korea schedules use official regular rules; international schedules a
 
 **[Open the AION 2 Rift Timer →](https://aion2tierlist.org/rift-timer/)**
 
-## 繁體中文
 
-**找到適合你的職業，掌握上手方向，安排下一場時空裂縫。**
+## Read rankings as a starting point
 
-[前往 aion2tierlist.org](https://aion2tierlist.org/) — 結合職業排行榜、新手攻略與裂縫時間規劃的 AION 2 獨立玩家網站，網站介面以英文呈現。
+A tier list is most useful when it helps you ask better questions. A position in a table cannot fully describe the experience of learning a class, joining a group or playing on your preferred schedule. Compare the explanation behind a ranking with the activities you actually enjoy. A class that suits a coordinated party may ask different things of its player than one chosen mainly for solo sessions.
 
-### 從排行榜開始，選出適合自己的職業
+Keep PvE and PvP context separate. Fighting computer-controlled encounters and responding to other players place different demands on timing, positioning and decision making. Switching the context of the tier list should change the question you are asking, not merely the letter you hope to see beside a favorite character. Read source attribution and review information before treating any ranking as current advice.
 
-查看 **PvE 與 PvP 職業排行榜**，搭配標明來源的排名、職業優勢、操作取捨與單人遊玩建議，了解每個職業的特色，再決定自己的冒險方向。
+## Explore the class guides
 
-| 守護星 | 治癒星 | 護法星 |
-| :---: | :---: | :---: |
-| [![守護星職業人物圖](images/classes/templar-640.webp)](https://aion2tierlist.org/classes/templar/) | [![治癒星職業人物圖](images/classes/cleric-640.webp)](https://aion2tierlist.org/classes/cleric/) | [![護法星職業人物圖](images/classes/chanter-640.webp)](https://aion2tierlist.org/classes/chanter/) |
-| 前排防護 | 隊伍治療 | 輔助增益 |
+The class pages combine artwork with explanations of roles, strengths and trade-offs. Start by identifying whether you prefer close-range pressure, ranged positioning, support responsibilities or another style. Then read the matching guide slowly enough to notice the compromises. A strong description of damage does not automatically tell you how forgiving the class will feel during your first sessions.
 
-- **九大職業圖文指南：**人物圖片、職業標誌、技能介紹與官方影片。
-- **新手入門方向：**依照喜好的玩法挑選職業，查看練習重點與學習清單。
-- **雙職業比較與收藏：**並排了解兩個職業的差異，收藏感興趣的選擇。
-- **銜接官方遊戲入口：**選好職業後，前往對應地區的官方網站及可用下載頁面。
+Use the practice material as a way to structure learning. Choose one habit to observe, such as maintaining useful positioning or recognizing an opportunity to support the group. Return to the guide after trying that habit. This is more informative than trying to memorize every detail before creating a character. Descriptive explanations should also be distinguished from official skill names or translations.
 
-[查看職業排行榜](https://aion2tierlist.org/) · [瀏覽全部職業](https://aion2tierlist.org/classes/) · [比較兩個職業](https://aion2tierlist.org/compare/)
+## Compare before committing
 
-### 讓裂縫時間配合你的遊玩安排
+The comparison page helps you put two choices beside each other. Pick alternatives that genuinely interest you rather than comparing a favorite with something you would never play. Think about the kind of responsibility you want during a difficult encounter, the amount of attention you enjoy giving to positioning, and whether your friends already have a role they need filled.
 
-自行選擇遊戲地區與顯示時區，查看預計開放倒數及接下來八個場次。輸入自己的遊玩時段，找出適合參加的場次。
+Favorites can make it easier to return to a shortlist, but they are a convenience rather than an account-wide promise. If browser preferences are removed, a saved choice may no longer be available on that device. Keep a simple note of your preferred classes if you want to discuss them elsewhere. The important outcome is an informed choice, not a perfect score from a comparison.
 
-- 提供 **3 小時、24 小時**快捷規劃，以及自訂時段篩選。
-- 分享指定場次，或複製 **Discord 時間標記**與朋友約時間。
-- 將場次加入行事曆，或在頁面保持開啟時使用提醒。
-- 在工具旁查看排期來源與核對日期。
+## Plan a rift with the correct context
 
-台服與韓服採用官方常規排期；國際地區使用清楚標示的社群參考時間。實際開放情況仍以維護公告及遊戲內通知為準。
+Before using a time estimate, confirm the game region and the display timezone. Those are different decisions: where you play determines the relevant schedule, while the display timezone determines how you read it. A convenient-looking time from the wrong region is not useful. Shared sessions should be checked by everyone involved rather than assumed to match automatically.
 
-**[開啟 AION 2 裂縫計時器 →](https://aion2tierlist.org/rift-timer/)**
+Use the planning window to narrow the sessions you can realistically attend. Leave room for logging in, preparing your character and meeting your group. A calendar entry or copied timestamp helps communicate an intention; it cannot ensure that a game event will take place exactly as expected. Maintenance notices and in-game announcements remain more important than a third-party estimate.
 
----
+## Keep expectations grounded
 
-[aion2tierlist.org](https://aion2tierlist.org/) · [About / 關於本站](https://aion2tierlist.org/about/) · [Contact / 聯絡我們](https://aion2tierlist.org/contact/)
+The timer distinguishes schedule references and exposes review information so that visitors can judge the context. Where information conflicts or becomes outdated, avoid interpreting an attractive countdown as certainty. Check the relevant official notice before arranging a session that would be costly or inconvenient to miss.
 
-Independent fan resource; not affiliated with NCSOFT. AION 2 names and game artwork belong to their respective owners. / 本站為獨立玩家資源，與 NCSOFT 無隸屬關係；AION 2 名稱與遊戲圖片歸各權利人所有。
+AION 2 Tier List is a companion resource rather than the game operator. It does not control balance changes, account access, regional availability or event maintenance. Use official regional destinations for game account questions. Use this website to organize your reading, compare options and prepare useful questions for your next session.
+
+## Return with a specific question
+
+You can make each visit short and productive. Open a class guide to understand one trade-off, compare two candidates before a discussion with friends, or inspect a rift window before agreeing on a time. The site works best as a reference you return to, rather than a single verdict that replaces your own experience.
+
+The artwork identifies the classes being discussed and remains associated with its respective rights holders. This is an independent fan resource, not an official NCSOFT publication. Visitor information and contact links are available through the website's footer.
