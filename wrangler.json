@@ -13,7 +13,7 @@
   "assets": {
     "directory": ".",
     "binding": "ASSETS",
-    "run_worker_first": ["/api", "/api/*"],
+    "run_worker_first": ["/api", "/api/*", "/patch-notes", "/patch-notes/"],
     "html_handling": "force-trailing-slash",
     "not_found_handling": "404-page"
   }

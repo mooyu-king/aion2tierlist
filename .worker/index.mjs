@@ -1,7 +1,12 @@
 import { onRequestGet } from './region.mjs';
 const worker = {
     async fetch(request, env) {
-        const path = new URL(request.url).pathname;
+        const url = new URL(request.url);
+        const path = url.pathname;
+        if (path === '/patch-notes' || path === '/patch-notes/') {
+            url.pathname = '/aion2-patch-notes/';
+            return Response.redirect(url.href, 301);
+        }
         if (path === '/api/region' || path === '/api/region/') {
             if (request.method !== 'GET' && request.method !== 'HEAD') {
                 return new Response(JSON.stringify({ error: 'Method not allowed' }), {
