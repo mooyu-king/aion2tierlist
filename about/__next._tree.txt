@@ -1,4 +1,4 @@
 :HL["/_next/static/css/2b1aab40997b91b8.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":{"n":"page","t":"d","k":"about","s":["_not-found","_global-error","classes","compare","contact","rift-timer","robots.txt","sitemap.xml","sources","updates"]},"h":96,"c":"$Q2"}]]
-0:{"b":"aKyrwn9bYdgOaR3DcbbTh","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"ZC3X82d9Ir_D-pddj1uj6","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
