@@ -2,4 +2,4 @@
 :HL["/_next/static/css/fc3aeb545c486b31.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"aion2-patch-notes","h":96,"c":"$Q2"}]]
-0:{"b":"NZcANjdBjTk9mouPyVhCV","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"bslcPF7znMr1FN1OhTwGm","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
